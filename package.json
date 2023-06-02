@@ -1,0 +1,22 @@
+{
+  "name": "gmoomjy.com",
+  "version": "1.0.0",
+  "description": "Gregory Moomjy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "github.com/gmoomjy/gmoomjy.com"
+  },
+  "keywords": [
+    "gmoomjy"
+  ],
+  "author": "Andrew Erb andrewerb.com",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
